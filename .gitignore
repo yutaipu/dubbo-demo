@@ -1,0 +1,15 @@
+/target/
+### eclipse ###
+.settings
+.classpath
+.project
+.idea
+
+### maven build ###
+/logs/
+
+### idea build ###
+*.iml
+### jrebel ###
+rebel.xml
+rebel-remote.xml
